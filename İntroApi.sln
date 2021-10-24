@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İntroApi", "İntroApi\İntroApi.csproj", "{4ED7FE41-B398-4AB6-B719-AA94E0FD9966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED7FE41-B398-4AB6-B719-AA94E0FD9966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED7FE41-B398-4AB6-B719-AA94E0FD9966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED7FE41-B398-4AB6-B719-AA94E0FD9966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED7FE41-B398-4AB6-B719-AA94E0FD9966}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9224C77-1D7E-4526-B038-5A89771927A8}
+	EndGlobalSection
+EndGlobal
